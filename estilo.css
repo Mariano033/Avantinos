@@ -1,7 +1,12 @@
 body{
     background-color: rgb(46, 46, 46);
 }
-
+.logo1{
+ 
+ max-width: 100%;
+ height: auto;
+ margin-left: -9px;
+}
 .icons{
     display: flex;
     flex-direction: row;
